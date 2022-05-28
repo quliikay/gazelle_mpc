@@ -1,3 +1,5 @@
+import sys
+sys.path.append("..")
 import torch.nn as nn
 import torch.utils.model_zoo as model_zoo
 from IPython import embed
